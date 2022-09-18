@@ -2,7 +2,9 @@
 
 > Projeto feito a partir do evento Next Level Week da Rocketseat, na Trilha Explorer.
 
-![preview](foto.png)
+
+
+![preview](./images/foto.png)
 
 ## 👩‍🏫 Tecnologia usadas
 
