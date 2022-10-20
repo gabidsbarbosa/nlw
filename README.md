@@ -2,7 +2,7 @@
 
 > Projeto feito a partir do evento Next Level Week da Rocketseat, na Trilha Explorer.
 
-[Clique aqui para acesar o site](https://gabidsbarbosa.github.io/nlw/)
+[Clique aqui para acesar o site]()
 
 ![preview](src/static/images/foto.png)
 
