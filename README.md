@@ -4,7 +4,7 @@
 
 [Clique aqui para acesar o site](https://gabidsbarbosa.github.io/nlw/)
 
-![preview](./images/foto.png)
+![preview](src/static/images/foto.png)
 
 ## 👩‍🏫 Tecnologia usadas
 
