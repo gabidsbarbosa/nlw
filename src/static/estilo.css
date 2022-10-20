@@ -16,7 +16,7 @@ ul{
 /* estilo da página: background */
 
 body{
-    background-image: url(./fundo.jpg);
+    background-image: url(images/fundo.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
